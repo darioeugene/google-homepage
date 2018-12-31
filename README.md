@@ -1,0 +1,2 @@
+Hello,
+I am Dario and I am working on my first mini-project. For this mini-project, I’ll deconstruct an existing web page and rebuild it. I will also use the browser's develeopers tools, incase I get stuck or need help. I am excited to get this project started. 
